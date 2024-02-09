@@ -8,3 +8,4 @@ Check point :
 - Dependency Injection in AppShell : AddTransient or AddSingleTon
 - .NET MAUI Not recognize RelativeLayout
 - .NET MAUI has different and flexible Navigation
+- .NET support Media Picker in Android API 34 which in not in Xamarin
